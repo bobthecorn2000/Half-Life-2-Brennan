@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/Kleiner/Material"
+	
+	"$halflambert" 1
+	
+	"$model" "1"
+
+
+}

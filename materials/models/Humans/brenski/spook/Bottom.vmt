@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/Humans/brenski/spook/Bottom"
+	"$bumpmap" "models/Humans/brenski/spook/bottem_normal"
+	"$halflambert" 1
+	
+	"$model" "1"
+// -- From here down is new stuff which will only be applied if $phong is set to 1 --
+	"$phong" "1"
+	"$phongexponenttexture" "models/Humans/brenski/spook/bottem_ex"
+	"$phongboost"	"0"
+	"$phongfresnelranges"	"[0.04 0.4 1]"
+
+}
